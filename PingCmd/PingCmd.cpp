@@ -11,8 +11,6 @@
 
 int __cdecl main(int argc, char** argv) {
 
-	// Declare and initialize variables
-
 	HANDLE hIcmpFile;
 	unsigned long ipaddr = INADDR_NONE;
 	DWORD dwRetVal = 0;
